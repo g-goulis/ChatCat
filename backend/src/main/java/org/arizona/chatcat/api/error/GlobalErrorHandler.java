@@ -15,7 +15,7 @@ public class GlobalErrorHandler {
     @ExceptionHandler(Exception.class)
     public ResponseEntity<Response> handleResourceNotFound(Exception e) {
         Response errorResponse = new Response(Optional.empty(),Status.SERVER_ERROR);
-        return new ResponseEntity<>(errorResponse, HttpStatus.NOT_FOUND);
+        return new ResponseEntity<>(errorResponse, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 
     // Handle other exceptions...

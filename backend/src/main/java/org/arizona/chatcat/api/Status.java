@@ -3,7 +3,7 @@ package org.arizona.chatcat.api;
 public enum Status {
     SUCCESS(200, "Success"),
     NOT_FOUND(404, "Not Found"),
-    SERVER_ERROR(500, "Server Error");
+    SERVER_ERROR(500, "General Server Error");
 
     private final int code;
     private final String message;
