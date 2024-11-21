@@ -1,0 +1,636 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d4" for="edge" attr.name="description" attr.type="string"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;UNIVERSITY OF ARIZONA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"It's the location where these student advising and support activities take place."&lt;SEP&gt;"The University of Arizona is an institution that houses the Department of Systems and Industrial Engineering, which provides a learning and research environment for graduate students in various fields."&lt;SEP&gt;"The University of Arizona is an institution that offers doctoral programs and has guidelines for comprehensive exams and final dissertation defense."&lt;SEP&gt;"University of Arizona is an institution offering educational programs and research opportunities, including graduate studies."&lt;SEP&gt;"University of Arizona provides educational opportunities and resources including graduate degree programs in SFWE."</data>
+  <data key="d2">chunk-c4f2c3a9f8fb96415a9305c0988b869f&lt;SEP&gt;chunk-b5db40bdab3ffff08a38a9130bbd7a7a&lt;SEP&gt;chunk-2f30354a2204b27f0e6cf73d09f64ac2&lt;SEP&gt;chunk-6aa6dc7e14872dd363eb40f66c1f36bd&lt;SEP&gt;chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;RICARDO VALERDI&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Ricardo Valerdi is the Director of SIE Graduate Studies at the University of Arizona."</data>
+  <data key="d2">chunk-c4f2c3a9f8fb96415a9305c0988b869f</data>
+</node>
+<node id="&quot;FACULTY ADVISOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A faculty advisor is responsible for guiding students and discussing issues related to unsatisfactory progress."&lt;SEP&gt;"The faculty advisor who will serve as the chair of the committee."&lt;SEP&gt;"The faculty advisor plays a crucial role in guiding students on which courses to select, particularly for General Education: Building Connections requirements."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860&lt;SEP&gt;chunk-a0e16eb650a8e232824daf07f235fc98&lt;SEP&gt;chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;COMMITTEE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A committee is involved in the further evaluation of the candidate after their public presentation."&lt;SEP&gt;"A group of individuals formed for the task or purpose to oversee, guide, or make decisions regarding specific matters."</data>
+  <data key="d2">chunk-a6278274e599b66b1d95f2ad062d8998&lt;SEP&gt;chunk-a0e16eb650a8e232824daf07f235fc98</data>
+</node>
+<node id="&quot;GRADUATE FACULTY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Tenured, tenure-track, or approved tenure-equivalent faculty member who contributes to academic research and teaching at a university level."</data>
+  <data key="d2">chunk-a0e16eb650a8e232824daf07f235fc98</data>
+</node>
+<node id="&quot;ACCELERATED MASTER’S PROGRAM (AMP)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"An academic program designed for exceptional undergraduate seniors at University of Arizona to pursue an MS degree concurrently with their BS degree."</data>
+  <data key="d2">chunk-a0e16eb650a8e232824daf07f235fc98</data>
+</node>
+<node id="&quot;SFWE UNDERGRADUATE ADVISOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A faculty member or staff responsible for advising and guiding undergraduate students majoring in Software Engineering at the University of Arizona."</data>
+  <data key="d2">chunk-a0e16eb650a8e232824daf07f235fc98</data>
+</node>
+<node id="&quot;SFWE PHD STUDENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"SFWE PhD Students are candidates for Doctoral studies outside the SFWE department who may choose to minor in Software Engineering For Web Engineering (SFWE)."</data>
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</node>
+<node id="&quot;NON-SFWE PHD STUDENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Doctoral students from any other academic departments or programs can opt for a minor in SFWE."</data>
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</node>
+<node id="&quot;MINOR ADVISOR&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"The role of the Minor Advisor is to guide and assist Ph.D. students who are choosing to minor in Software Engineering For Web Engineering (SFWE)."</data>
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</node>
+<node id="&quot;SFWE MINOR&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The SFWE PhD Minor consists of a set coursework that totals 12 units including core area courses and approved electives."</data>
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</node>
+<node id="&quot;BIOMEDICAL ENGINEERING&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Biomedical Engineering is an academic program that combines principles of engineering and medicine, often found within a university's College of Engineering or Department of Biomedical Sciences."</data>
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</node>
+<node id="&quot;GRADUATE COLLEGE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Graduate College at the University of Arizona handles academic policies, including the evaluation process in doctoral comprehensive exams and final dissertation defense."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;DOCTORAL STUDENT&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A doctoral student who completes research during their PhD program, undergoes comprehensive exams and a final oral defense."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;DISSERTATION COMMITTEE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The dissertation committee is composed of faculty members from the University of Arizona that evaluates the student's doctoral research through both written dissertation and oral defense."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;SFWE METHODS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"SFWE refers to specialized theory, methods, and techniques in a specific field that students use for problem formulation, analysis, and communication."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;COMPREHENSIVE EXAM COMMITTEE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Comprehensive Exam Committee is responsible for overseeing and assessing the outcomes of both written and oral comprehensive exams, ensuring that all criteria are met before a student can advance or proceed in their doctoral program."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;ORAL COMPREHENSIVE EXAM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An Oral Comprehensive Exam involves a series of assessments conducted by committee members to evaluate a student's understanding and mastery of their field of study, with an emphasis on critical thinking, communication skills, and originality."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;DOCTORAL FINAL EXAM COMMITTEE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Doctoral Final Exam Committee is responsible for overseeing the comprehensive exam process and making final decisions regarding a student's advancement to PhD candidacy or their completion of doctoral requirements based on the results of both written and oral examinations."</data>
+  <data key="d2">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</node>
+<node id="&quot;3.00 CUMULATIVE GPA&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A 3.00 cumulative GPA represents academic performance criteria for students."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;GPA REQUIREMENT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"GPA requirement is a condition set by the university to measure academic progress."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;ACADEMIC PROBATION&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Academic probation occurs when students fail to meet GPA requirements."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;ACADEMIC DISQUALIFY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Academic disqualification results from failing to meet academic standards after being on probation."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;GRADUATE PROGRAM COORDINATOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The Graduate Program Coordinator assists students with academic policies, including probation."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;ONLINE STUDENTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Online students are not eligible for Graduate Teaching Assistantships (GTA) and Graduate Research Assistantships (GRA)."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;GRADUATE TEACHING ASSISTANTSHIP (GTA)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GTA provides financial assistance to graduate students who teach courses."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;GRADUATE RESEARCH ASSISTANTSHIP (GRA)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GRA supports graduate students engaged in research activities, with funding decisions made by faculty members with grant funding."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;MINIMUM REGISTRATION REQUIREMENT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Students funded by the SIE Department must be enrolled in at least nine graduate units every semester to maintain their appointment."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;STUDENT COUNCIL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Student Council is a group of student representatives who plan events and activities, provide input on policies affecting students, and advocate for student needs."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;OFFICE OF FELLOWSHIPS AND COMMUNITY ENGAGEMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Office of Fellowships and Community Engagement supports students by facilitating access to fellowships and community involvement opportunities."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;SIE-SPECIFIC ORGANIZATIONS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"SIE-specific organizations are clubs or groups within the School of Information and Computing that cater to interests, skills development, or professional growth related to information science and computing fields."</data>
+  <data key="d2">chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
+</node>
+<node id="&quot;GRADAPP&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"GradApp is an online platform for submitting applications to graduate programs at the University of Arizona, used specifically for admission into SFWE graduate degrees."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;SFWE&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"SFWE refers to Software &amp; Web Engineering, a field of study for which the University of Arizona offers graduate degrees through their engineering program."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;ACADEMIC TRANSCRIPTS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Academic transcripts are required for admission to SFWE graduate programs and typically include a record of coursework completed at the undergraduate level."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;STATEMENT OF PURPOSE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A statement of purpose describing intent and motivation to pursue a graduate degree in SFWE is part of the application requirements."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;LETTERS OF RECOMMENDATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Three letters of recommendation are required as part of the SFWE graduate program application."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;RESUME OR CURRICULUM VITAE (CV)&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A resume or CV is necessary for showcasing professional background and experiences when applying to SFWE graduate programs."</data>
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</node>
+<node id="&quot;DOCTORAL QUALIFYING EXAM (QE)&quot;">
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a</data>
+  <data key="d1">"The Doctoral Qualifying Examination assesses the necessary knowledge for software engineering research and must be taken by students before their third semester."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;EVENT&quot;">
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+  <data key="d1">"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"The Doctoral Qualifying Examination assesses the necessary knowledge for software engineering research and must be taken by students before their third semester."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."</data>
+  <data key="d0">"EVENT"</data>
+</node>
+<node id="&quot;DOCTORAL COMPREHENSIVE EXAM&quot;">
+  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a&lt;SEP&gt;chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+  <data key="d1">"An exam to determine if the student has sufficient background and expertise for conducting research in their planned dissertation field."&lt;SEP&gt;"This exam determines if a student has sufficient background and expertise for research in Software Engineering field, usually scheduled at least 9 months before the final dissertation defense."</data>
+  <data key="d0">"EVENT"</data>
+</node>
+<node id="&quot;APPLICATION REQUIREMENTS&quot;">
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+  <data key="d1">"Academic transcripts are one of the required documents in the application process for SFWE graduate programs."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;APPLICATION REQUIREMENT&quot;">
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+  <data key="d1">"A statement of purpose is a mandatory part of an applicant's submission when applying to SFWE graduate degree programs."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;APPLICATION COMPONENT&quot;">
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+  <data key="d1">"A resume or CV provides employers with insight into your work experience when you apply for SFWE graduate programs."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;RESUME OR CV&quot;">
+  <data key="d2">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+  <data key="d1">"A resume or CV provides employers with insight into your work experience when you apply for SFWE graduate programs."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;2024-2025 SOFTWARE ENGINEERING COURSE REQUIREMENTS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The event refers to the planning or setting of software engineering course requirements for a specific academic period."</data>
+  <data key="d2">chunk-4f97ac6cd8a11c410d2882e67e3e5d38</data>
+</node>
+<node id="&quot;MAIN CAMPUS&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"This refers to the physical location where the courses are offered."</data>
+  <data key="d2">chunk-4f97ac6cd8a11c410d2882e67e3e5d38</data>
+</node>
+<node id="&quot;IP&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"IP stands for In Progress, an indicator status for course enrollment."</data>
+  <data key="d2">chunk-4f97ac6cd8a11c410d2882e67e3e5d38</data>
+</node>
+<node id="&quot;PL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"PL stands for Planned, another indicator status for course enrollment."</data>
+  <data key="d2">chunk-4f97ac6cd8a11c410d2882e67e3e5d38</data>
+</node>
+<node id="&quot;X&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"X indicates that a course has been completed, also related to course enrollment statuses."</data>
+  <data key="d2">chunk-4f97ac6cd8a11c410d2882e67e3e5d38</data>
+</node>
+<node id="&quot;MAIN CAMPUS: TUCSON&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This entity refers to the main campus location of a university which is located in Tucson, Arizona."</data>
+  <data key="d2">chunk-089731803ae307e643be217c0e933aed</data>
+</node>
+<node id="&quot;ORGANIZATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."</data>
+  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-9388219871d1ca103f61a8f2f5c1fef6&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;PERSON&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."</data>
+  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;GEO&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."</data>
+  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;ADDITIONAL_ENTITY_1&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"description_of_additional_entity_1"</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;ADDITIONAL_ENTITY_2&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"description_of_additional_entity_2"</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;ADDITIONAL_ENTITY_3&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"description_of_additional_entity_3"</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;ADDITIONAL_EVENT_4&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"description_of_additional_event_4"</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9</data>
+</node>
+<node id="&quot;NEW ENTITY NAME&quot;">
+  <data key="d0">"ENTITY TYPE"</data>
+  <data key="d1">"Description of New Entity"</data>
+  <data key="d2">chunk-da654693eba81e22b05fc04449477a93</data>
+</node>
+<node id="&quot;SYSTEMS AND INDUSTRIAL ENGINEERING (SIE) DEPARTMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Systems and Industrial Engineering department at the University of Arizona is committed to providing comprehensive undergraduate programs leading to BS degrees. It offers three MS degrees and a PhD program in collaboration with ABET."</data>
+  <data key="d2">chunk-63f6ebd378d11b685a19a009cef30d84</data>
+</node>
+<node id="&quot;SIE PROGRAMS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"SIE programs offer technical knowledge, communication skills, teamwork and leadership experience. Focuses on designing complex systems and preparing individuals for professional work in systems, industrial, and engineering management."</data>
+  <data key="d2">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+</node>
+<node id="&quot;ADVISEMENT REPORT&quot;">
+  <data key="d0">"DOCUMENT"</data>
+  <data key="d1">"The document which students use to review their academic requirements and graduation criteria."</data>
+  <data key="d2">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+</node>
+<node id="&quot;SIE 305&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"SIE 305 is an introductory probability and statistics course for students."</data>
+  <data key="d2">chunk-c7fd601e37fe1f8dfbf4d3fb87a80266</data>
+</node>
+<node id="&quot;ENGR 102&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"ENGR 102 is an introduction to engineering course for students."</data>
+  <data key="d2">chunk-c7fd601e37fe1f8dfbf4d3fb87a80266</data>
+</node>
+<node id="&quot;ISS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"International Student Services provides guidance on immigration issues, orientation, financial guarantees, etc. for students at University of Arizona."</data>
+  <data key="d2">chunk-6aa6dc7e14872dd363eb40f66c1f36bd</data>
+</node>
+<node id="&quot;MYGLOBAL&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"MyGlobal is a platform that ISS uses to offer services related to employment, verification enrollment and concurrent enrollment requests for international students."</data>
+  <data key="d2">chunk-6aa6dc7e14872dd363eb40f66c1f36bd</data>
+</node>
+<node id="&quot;ARIZONA MERIT SCHOLARSHIPS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Arizona Merit Scholarships provide tuition awards that require maintenance of specific units and GPA for renewal every year."</data>
+  <data key="d2">chunk-f06e1fa4e69815351bbe2ab69c6d55b0</data>
+</node>
+<node id="&quot;ARIZONA COMMUNITY FOUNDATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Arizona Community Foundation annually awards scholarships to help students achieve their educational goals based on eligibility."</data>
+  <data key="d2">chunk-f06e1fa4e69815351bbe2ab69c6d55b0</data>
+</node>
+<node id="&quot;WOMEN IN SCIENCE &amp; ENGINEERING (WISE)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Women in Science &amp; Engineering (WISE) annually administers three scholarship competitions, typically due by the end of February."</data>
+  <data key="d2">chunk-f06e1fa4e69815351bbe2ab69c6d55b0</data>
+</node>
+<node id="&quot;HISPANIC ASSOCIATION OF COLLEGES AND UNIVERSITIES (HACU)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The HACU Scholarship Program allows applications from individuals who meet the program's specific criteria."</data>
+  <data key="d2">chunk-f06e1fa4e69815351bbe2ab69c6d55b0</data>
+</node>
+<node id="&quot;TUITION AWARDS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Tuition awards granted by Arizona Merit Scholarships require continuous eligibility based on maintaining required units and GPA."</data>
+  <data key="d2">chunk-f06e1fa4e69815351bbe2ab69c6d55b0</data>
+</node>
+<node id="&quot;SKILLS&quot;">
+  <data key="d2">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+  <data key="d1">"SIE programs emphasize the development of essential skills such as technical knowledge, communication abilities, teamwork, and leadership training."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;STUDENTS&quot;">
+  <data key="d2">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+  <data key="d1">"Students utilize this report to ensure they meet all necessary academic requirements for graduation."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;B.S. IN SOFTWARE ENGINEERING&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"B.S. in Software Engineering refers to a degree program in software engineering offered at the university level."</data>
+  <data key="d2">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</node>
+<node id="&quot;COURSE NUMBER AND TITLE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This entity represents individual course titles with corresponding numbers, which make up the curriculum of the Software Engineering B.S. program."</data>
+  <data key="d2">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</node>
+<node id="&quot;UNITS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The 'units' entity denotes the credit value assigned to each course as part of the academic requirements for graduation."</data>
+  <data key="d2">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</node>
+<node id="&quot;PREREQUISITES/ENROLLMENT REQUIREMENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Prerequisites and enrollment requirements are conditions that students must meet in order to enroll in specific courses or programs."</data>
+  <data key="d2">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</node>
+<node id="&quot;UNIV 301 GENERAL EDUCATION PORTFOLIO&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"UNIV 301 is a course aimed at helping students build connections through their education."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</node>
+<node id="&quot;SENIOR STATUS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Achieving senior status involves certain academic milestones, including accumulating specific credit hours and working closely with advisors."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</node>
+<node id="&quot;COURSE ADVISOR&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"The course advisor provides guidance specifically related to academic programs and curriculum requirements."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</node>
+<node id="&quot;BUILDING CONNECTIONS COURSES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Building Connections courses are part of the university's general education program designed to foster interdisciplinary learning."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</node>
+<node id="&quot;TECHNICAL ELECTIVE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Technical Elective is a course that allows students to specialize in specific areas of their major while fulfilling General Education requirements."</data>
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</node>
+<node id="&quot;CATALOG YEAR 2024-25&quot;">
+  <data key="d2">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+  <data key="d1">"Catalog Year 2024-25 defines the academic year during which Main Campus students are advised on courses for this degree program."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;STUDENT&quot;">
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+  <data key="d1">"Students often seek advice from the Course Advisor when selecting courses that align with their academic goals and requirements."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;GENERAL EDUCATION&quot;">
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+  <data key="d1">"The Building Connections Courses are a subset of General Education offerings aimed at promoting integrated learning across disciplines."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;MAJOR&quot;">
+  <data key="d2">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+  <data key="d1">"The Technical Elective contributes to the specific knowledge base within the student's major while fulfilling broader General Education requirements."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;SFEPHD - SOFTWARE ENGINEERING PHD PROGRAM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The SFEPHD program offers a Doctor of Philosophy degree in Software Engineering with an engineering foundation focusing on discovery-based education, experiential learning approaches and research."</data>
+  <data key="d2">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</node>
+<node id="&quot;COLLEGE OF ENGINEERING&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The College of Engineering provides academic programs and conducts research in multiple engineering disciplines."</data>
+  <data key="d2">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</node>
+<node id="&quot;GRADUATE STUDIES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Graduate Studies department oversees graduate programs, including admissions, curriculum development, and academic support for PhD candidates."</data>
+  <data key="d2">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</node>
+<node id="&quot;DOCTORAL QUALIFYING EXAM (DQE)&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A doctoral qualifying exam assessing students' fundamental knowledge in specific domains and their readiness for advanced research work."</data>
+  <data key="d2">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</node>
+<node id="&quot;COLLOQUIUM&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"A series of seminars or discussions led by experts on relevant topics, aimed at exposing students to cutting-edge knowledge."</data>
+  <data key="d2">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</node>
+<node id="&quot;PUBLIC&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The term 'public' refers to the audience present for a presentation and discussion. It implies openness and transparency."</data>
+  <data key="d2">chunk-a6278274e599b66b1d95f2ad062d8998</data>
+</node>
+<node id="&quot;CANDIDATE&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"A candidate is being evaluated in a process that involves both public presentation and committee meeting."</data>
+  <data key="d2">chunk-a6278274e599b66b1d95f2ad062d8998</data>
+</node>
+<node id="&quot;MINOR REQUIREMENTS&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The term 'Minor Requirements' is an event or action related to doctoral students following their public presentation."</data>
+  <data key="d2">chunk-a6278274e599b66b1d95f2ad062d8998</data>
+</node>
+<edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;DISSERTATION COMMITTEE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The University of Arizona provides faculty members who can serve as part of the dissertation committees."</data>
+  <data key="d5">"faculty provision, academic governance"</data>
+  <data key="d6">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</edge>
+<edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;GRADAPP&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"GradApp is utilized by the University of Arizona for processing applications into SFWE graduate degree programs."</data>
+  <data key="d5">"application process, educational platform"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;SFWE&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The University of Arizona offers SFWE as a field of study through their engineering program, providing educational resources and opportunities for students to pursue advanced degrees in this area."</data>
+  <data key="d5">"field of study, educational offerings"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;SFWE PHD STUDENTS&quot;" target="&quot;MINOR ADVISOR&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SFWE PhD students consult with an SFWE faculty to serve as their minor advisor."</data>
+  <data key="d5">"academic mentorship, advising"</data>
+  <data key="d6">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</edge>
+<edge source="&quot;NON-SFWE PHD STUDENTS&quot;" target="&quot;MINOR ADVISOR&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Non-SFWE Ph.D. students identify a SFWE faculty member as their minor advisor."</data>
+  <data key="d5">"advisor-mentee relationship, academic guidance"</data>
+  <data key="d6">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</edge>
+<edge source="&quot;NON-SFWE PHD STUDENTS&quot;" target="&quot;BIOMEDICAL ENGINEERING&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Non-SFWE Ph.D. students have the option to minor in Biomedical Engineering as part of their academic program."</data>
+  <data key="d5">"interdisciplinary studies, academic flexibility"</data>
+  <data key="d6">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</edge>
+<edge source="&quot;DOCTORAL STUDENT&quot;" target="&quot;DISSERTATION COMMITTEE&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The doctoral student is supervised by the dissertation committee during their research, comprehensive exams, and final dissertation defense."</data>
+  <data key="d5">"supervision, evaluation"</data>
+  <data key="d6">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</edge>
+<edge source="&quot;COMPREHENSIVE EXAM COMMITTEE&quot;" target="&quot;ORAL COMPREHENSIVE EXAM&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Comprehensive Exam Committee conducts multiple assessments, including both written and oral exams, which determine the readiness of a doctoral student for advancement."</data>
+  <data key="d5">"assessment process, evaluation criteria"</data>
+  <data key="d6">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</edge>
+<edge source="&quot;COMPREHENSIVE EXAM COMMITTEE&quot;" target="&quot;DOCTORAL FINAL EXAM COMMITTEE&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Doctoral Final Exam Committee consults with the Comprehensive Exam Committee to ensure all academic standards and requirements have been met prior to granting PhD candidacy or completing doctoral programs."</data>
+  <data key="d5">"collaborative decision-making, final evaluation"</data>
+  <data key="d6">chunk-b5db40bdab3ffff08a38a9130bbd7a7a</data>
+</edge>
+<edge source="&quot;ACADEMIC TRANSCRIPTS&quot;" target="&quot;APPLICATION REQUIREMENTS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Academic transcripts are one of the required documents in the application process for SFWE graduate programs."</data>
+  <data key="d5">"application components, educational documentation"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;STATEMENT OF PURPOSE&quot;" target="&quot;APPLICATION REQUIREMENT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"A statement of purpose is a mandatory part of an applicant's submission when applying to SFWE graduate degree programs."</data>
+  <data key="d5">"writing component, program motivation"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;LETTERS OF RECOMMENDATION&quot;" target="&quot;APPLICATION REQUIREMENT&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Letters of recommendation are needed as proof of an applicant's abilities and potential in the context of SFWE graduate program applications."</data>
+  <data key="d5">"supporting documentation, character attestation"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;DOCTORAL QUALIFYING EXAM (QE)&quot;" target="&quot;EVENT&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"The Doctoral Qualifying Examination assesses the necessary knowledge for software engineering research and must be taken by students before their third semester."</data>
+  <data key="d5">"assessment, academic milestone"</data>
+  <data key="d6">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</edge>
+<edge source="&quot;EVENT&quot;" target="&quot;DOCTORAL COMPREHENSIVE EXAM&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"This exam determines if a student has sufficient background and expertise for research in Software Engineering field, usually scheduled at least 9 months before the final dissertation defense."</data>
+  <data key="d5">"evaluation, academic progression"</data>
+  <data key="d6">chunk-3bd34990d947af56feec71f17db1d90a</data>
+</edge>
+<edge source="&quot;APPLICATION COMPONENT&quot;" target="&quot;RESUME OR CV&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"A resume or CV provides employers with insight into your work experience when you apply for SFWE graduate programs."</data>
+  <data key="d5">"professional background, employment history"</data>
+  <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;MAIN CAMPUS&quot;" target="&quot;CATALOG YEAR 2024-25&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Catalog Year 2024-25 defines the academic year during which Main Campus students are advised on courses for this degree program."</data>
+  <data key="d5">"academic year, course advising"</data>
+  <data key="d6">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</edge>
+<edge source="&quot;SIE PROGRAMS&quot;" target="&quot;SKILLS&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"SIE programs emphasize the development of essential skills such as technical knowledge, communication abilities, teamwork, and leadership training."</data>
+  <data key="d5">"skill focus, industry readiness"</data>
+  <data key="d6">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+</edge>
+<edge source="&quot;ADVISEMENT REPORT&quot;" target="&quot;STUDENTS&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"Students utilize this report to ensure they meet all necessary academic requirements for graduation."</data>
+  <data key="d5">"academic planning, fulfillment of criteria"</data>
+  <data key="d6">chunk-fb93ec42d85e60988d7a4ff6e06c1f95</data>
+</edge>
+<edge source="&quot;ISS&quot;" target="&quot;MYGLOBAL&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"International Student Services utilizes MyGlobal to facilitate services like employment, verification enrollment and concurrent enrollment requests for students."</data>
+  <data key="d5">"services coordination"</data>
+  <data key="d6">chunk-6aa6dc7e14872dd363eb40f66c1f36bd</data>
+</edge>
+<edge source="&quot;COURSE NUMBER AND TITLE&quot;" target="&quot;UNITS&quot;">
+  <data key="d3">6.0</data>
+  <data key="d4">"The 'units' entity is associated with each course by its number, indicating the credit value."</data>
+  <data key="d5">"course association, academic value"</data>
+  <data key="d6">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</edge>
+<edge source="&quot;COURSE NUMBER AND TITLE&quot;" target="&quot;PREREQUISITES/ENROLLMENT REQUIREMENTS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"Each course has specific prerequisites or enrollment requirements that students must fulfill before enrolling in these courses."</data>
+  <data key="d5">"academic criteria, course eligibility"</data>
+  <data key="d6">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</edge>
+<edge source="&quot;UNITS&quot;" target="&quot;PREREQUISITES/ENROLLMENT REQUIREMENTS&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The number of units required for each course is subject to the prerequisites or enrollment requirements for that course."</data>
+  <data key="d5">"course credit, academic eligibility"</data>
+  <data key="d6">chunk-2c3bae1abe4e9618baf11a0c91f2149f</data>
+</edge>
+<edge source="&quot;COURSE ADVISOR&quot;" target="&quot;STUDENT&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"Students often seek advice from the Course Advisor when selecting courses that align with their academic goals and requirements."</data>
+  <data key="d5">"guidance, selection"</data>
+  <data key="d6">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</edge>
+<edge source="&quot;BUILDING CONNECTIONS COURSES&quot;" target="&quot;GENERAL EDUCATION&quot;">
+  <data key="d3">7.0</data>
+  <data key="d4">"The Building Connections Courses are a subset of General Education offerings aimed at promoting integrated learning across disciplines."</data>
+  <data key="d5">"connection, integration"</data>
+  <data key="d6">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</edge>
+<edge source="&quot;TECHNICAL ELECTIVE&quot;" target="&quot;MAJOR&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The Technical Elective contributes to the specific knowledge base within the student's major while fulfilling broader General Education requirements."</data>
+  <data key="d5">"specialization, integration"</data>
+  <data key="d6">chunk-46ee2a6d835622f005ec67af3e5fd860</data>
+</edge>
+<edge source="&quot;SFEPHD - SOFTWARE ENGINEERING PHD PROGRAM&quot;" target="&quot;COLLEGE OF ENGINEERING&quot;">
+  <data key="d3">20.0</data>
+  <data key="d4">"The SFEPHD program is offered by the College of Engineering."&lt;SEP&gt;"The SFEPHD program is offered within the College of Engineering."</data>
+  <data key="d5">"academic affiliation, program location"&lt;SEP&gt;"academic program, department affiliation"</data>
+  <data key="d6">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</edge>
+<edge source="&quot;COLLEGE OF ENGINEERING&quot;" target="&quot;GRADUATE STUDIES&quot;">
+  <data key="d3">8.0</data>
+  <data key="d4">"The College of Engineering's Graduate Studies department manages programs like SFEPHD."</data>
+  <data key="d5">"department collaboration, academic administration"</data>
+  <data key="d6">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</edge>
+</graph></graphml>
