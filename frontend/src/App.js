@@ -19,22 +19,23 @@ const App = () => {
     let config = {
       method: 'post',
       maxBodyLength: Infinity,
-      url: 'http://localhost:8080/api/v1/message',
+      url: 'http://localhost:8000/query',
       headers: {
         'Content-Type': 'application/json'
       },
-      data : userMessage
+      question : userMessage
     };
 
     try {
       const response = await axios.request(config);
       console.log(response);
-      const botMessage = { text: response.data.data, sender: 'bot' };
+      const botMessage = { text: response.data.response, sender: 'bot' };
       setMessages((prevMessages) => [...prevMessages, botMessage]);
     } catch (error) {
       console.error('Error fetching bot response:', error);
     }
   };
+
 
   return (
     <div className="chat-container">
