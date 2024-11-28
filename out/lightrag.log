@@ -683,3 +683,194 @@
 2024-11-20 05:02:42,833 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
 2024-11-20 05:02:55,567 - lightrag - INFO - Local query uses 60 entites, 23 relations, 4 text units
 2024-11-20 05:02:55,723 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 15:01:22,022 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 15:01:22,028 - lightrag - INFO - Load KV llm_response_cache with 95 data
+2024-11-25 15:01:22,033 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 15:01:22,036 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 15:01:22,042 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 93 nodes, 27 edges
+2024-11-25 15:01:22,116 - lightrag - WARNING - All docs are already in the storage
+2024-11-25 15:01:22,148 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 15:01:22,312 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 15:01:22,313 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 15:01:30,697 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 15:01:30,951 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 15:01:30,951 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 15:01:30,956 - lightrag - INFO - Writing graph with 93 nodes, 27 edges
+2024-11-25 15:01:30,969 - lightrag - WARNING - All docs are already in the storage
+2024-11-25 15:01:30,976 - lightrag - WARNING - All docs are already in the storage
+2024-11-25 15:01:30,983 - lightrag - WARNING - All docs are already in the storage
+2024-11-25 15:01:31,140 - lightrag - INFO - [New Docs] inserting 14 docs
+2024-11-25 15:01:31,141 - lightrag - INFO - [New Chunks] inserting 14 chunks
+2024-11-25 15:01:31,141 - lightrag - INFO - Inserting 14 vectors to chunks
+2024-11-25 15:01:31,386 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 15:01:34,902 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 15:01:34,902 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 15:01:34,907 - lightrag - INFO - Writing graph with 93 nodes, 27 edges
+2024-11-25 15:01:34,922 - lightrag - INFO - [New Docs] inserting 4 docs
+2024-11-25 15:01:34,922 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-25 15:01:34,922 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-25 15:01:35,083 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 15:01:36,086 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 15:01:36,087 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 15:01:36,091 - lightrag - INFO - Writing graph with 93 nodes, 27 edges
+2024-11-25 15:01:36,361 - lightrag - INFO - Local query uses 60 entites, 24 relations, 6 text units
+2024-11-25 15:01:36,499 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 15:01:52,899 - lightrag - INFO - Local query uses 60 entites, 23 relations, 4 text units
+2024-11-25 15:01:53,038 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 15:03:14,420 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 15:03:14,427 - lightrag - INFO - Load KV llm_response_cache with 97 data
+2024-11-25 15:03:14,433 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 15:03:14,438 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 15:03:14,445 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 93 nodes, 27 edges
+2024-11-25 15:03:14,916 - lightrag - INFO - Local query uses 60 entites, 24 relations, 6 text units
+2024-11-25 15:03:15,087 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 15:03:15,510 - lightrag - INFO - Local query uses 60 entites, 23 relations, 4 text units
+2024-11-25 15:03:15,679 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 15:30:34,274 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 15:30:34,280 - lightrag - INFO - Load KV llm_response_cache with 97 data
+2024-11-25 15:30:34,281 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 15:30:34,281 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 15:30:34,283 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 93 nodes, 27 edges
+2024-11-25 15:30:34,286 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 15:30:34,459 - lightrag - INFO - [New Chunks] inserting 4 chunks
+2024-11-25 15:30:34,460 - lightrag - INFO - Inserting 4 vectors to chunks
+2024-11-25 15:30:35,317 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 15:31:13,074 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 15:31:13,074 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 15:31:13,081 - lightrag - INFO - Writing graph with 117 nodes, 27 edges
+2024-11-25 15:43:10,705 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 15:43:10,711 - lightrag - INFO - Load KV llm_response_cache with 105 data
+2024-11-25 15:43:10,715 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 15:43:10,719 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 15:43:10,728 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 117 nodes, 27 edges
+2024-11-25 15:43:14,661 - lightrag - INFO - Local query uses 60 entites, 24 relations, 4 text units
+2024-11-25 15:43:14,864 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:00:19,479 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:00:19,486 - lightrag - INFO - Load KV llm_response_cache with 107 data
+2024-11-25 16:00:19,486 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:00:19,487 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:00:19,489 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 117 nodes, 27 edges
+2024-11-25 16:00:21,899 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:03:15,950 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:03:15,958 - lightrag - INFO - Load KV llm_response_cache with 109 data
+2024-11-25 16:03:15,959 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:03:15,959 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:03:15,961 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 117 nodes, 27 edges
+2024-11-25 16:03:15,980 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:03:16,211 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-25 16:03:16,212 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-25 16:03:16,597 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:03:25,985 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:03:25,985 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:03:25,990 - lightrag - INFO - Writing graph with 127 nodes, 27 edges
+2024-11-25 16:03:26,267 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:05:51,624 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:05:51,633 - lightrag - INFO - Load KV llm_response_cache with 114 data
+2024-11-25 16:05:51,638 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:05:51,643 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:05:51,652 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 127 nodes, 27 edges
+2024-11-25 16:05:51,670 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:05:51,883 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:05:51,883 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:05:52,031 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:05:58,320 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:05:58,321 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:05:58,326 - lightrag - INFO - Writing graph with 129 nodes, 27 edges
+2024-11-25 16:05:58,608 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:06:54,143 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:06:54,151 - lightrag - INFO - Load KV llm_response_cache with 116 data
+2024-11-25 16:06:54,155 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:06:54,160 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:06:54,168 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 129 nodes, 27 edges
+2024-11-25 16:06:54,190 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:06:54,409 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:06:54,410 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:06:54,559 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:06:58,803 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:06:58,803 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:06:58,808 - lightrag - INFO - Writing graph with 129 nodes, 27 edges
+2024-11-25 16:06:59,118 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:09:09,192 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:09:09,200 - lightrag - INFO - Load KV llm_response_cache with 119 data
+2024-11-25 16:09:09,205 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:09:09,210 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:09:09,217 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 129 nodes, 27 edges
+2024-11-25 16:09:09,232 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:09:09,448 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:09:09,448 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:09:09,721 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:09:11,839 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:09:11,839 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:09:11,844 - lightrag - INFO - Writing graph with 130 nodes, 27 edges
+2024-11-25 16:09:12,110 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:22:42,565 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:22:42,572 - lightrag - INFO - Load KV llm_response_cache with 122 data
+2024-11-25 16:22:42,578 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:22:42,583 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:22:42,590 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 130 nodes, 27 edges
+2024-11-25 16:22:45,638 - lightrag - INFO - Local query uses 60 entites, 22 relations, 4 text units
+2024-11-25 16:22:45,783 - lightrag - INFO - Global query uses 42 entites, 27 relations, 4 text units
+2024-11-25 16:31:27,741 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:31:27,748 - lightrag - INFO - Load KV llm_response_cache with 124 data
+2024-11-25 16:31:27,748 - lightrag - INFO - Load KV full_docs with 4 data
+2024-11-25 16:31:27,749 - lightrag - INFO - Load KV text_chunks with 15 data
+2024-11-25 16:31:27,751 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 130 nodes, 27 edges
+2024-11-25 16:31:27,771 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:31:27,938 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:31:27,938 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:31:28,440 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:31:48,985 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:31:48,985 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:31:48,990 - lightrag - INFO - Writing graph with 131 nodes, 27 edges
+2024-11-25 16:31:49,005 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:31:49,006 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-25 16:31:49,006 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-25 16:31:49,171 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:32:07,919 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:32:07,919 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:32:07,924 - lightrag - INFO - Writing graph with 141 nodes, 27 edges
+2024-11-25 16:32:07,939 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:32:07,939 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:32:07,940 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:32:08,085 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:32:42,532 - lightrag - INFO - Inserting 41 vectors to entities
+2024-11-25 16:32:43,119 - lightrag - INFO - Inserting 2 vectors to relationships
+2024-11-25 16:32:43,264 - lightrag - INFO - Writing graph with 181 nodes, 29 edges
+2024-11-25 16:32:43,535 - lightrag - INFO - Local query uses 60 entites, 19 relations, 5 text units
+2024-11-25 16:32:43,676 - lightrag - INFO - Global query uses 45 entites, 29 relations, 4 text units
+2024-11-25 16:33:20,855 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:33:20,901 - lightrag - INFO - Load KV llm_response_cache with 133 data
+2024-11-25 16:33:20,905 - lightrag - INFO - Load KV full_docs with 5 data
+2024-11-25 16:33:20,909 - lightrag - INFO - Load KV text_chunks with 16 data
+2024-11-25 16:33:20,916 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 181 nodes, 29 edges
+2024-11-25 16:33:20,928 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:33:21,093 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:33:21,094 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:33:21,232 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:33:21,490 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:33:21,490 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:33:21,496 - lightrag - INFO - Writing graph with 181 nodes, 29 edges
+2024-11-25 16:33:21,499 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:33:21,500 - lightrag - INFO - [New Chunks] inserting 2 chunks
+2024-11-25 16:33:21,500 - lightrag - INFO - Inserting 2 vectors to chunks
+2024-11-25 16:33:21,671 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:33:22,179 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:33:22,180 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:33:22,186 - lightrag - INFO - Writing graph with 181 nodes, 29 edges
+2024-11-25 16:33:22,188 - lightrag - WARNING - All docs are already in the storage
+2024-11-25 16:33:23,732 - lightrag - INFO - Local query uses 60 entites, 16 relations, 4 text units
+2024-11-25 16:33:23,873 - lightrag - INFO - Global query uses 45 entites, 29 relations, 4 text units
+2024-11-25 16:38:20,017 - lightrag - INFO - Logger initialized for working directory: ./out
+2024-11-25 16:38:20,024 - lightrag - INFO - Load KV llm_response_cache with 135 data
+2024-11-25 16:38:20,029 - lightrag - INFO - Load KV full_docs with 5 data
+2024-11-25 16:38:20,033 - lightrag - INFO - Load KV text_chunks with 16 data
+2024-11-25 16:38:20,042 - lightrag - INFO - Loaded graph from ./out\graph_chunk_entity_relation.graphml with 181 nodes, 29 edges
+2024-11-25 16:38:20,054 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-25 16:38:20,223 - lightrag - INFO - [New Chunks] inserting 1 chunks
+2024-11-25 16:38:20,224 - lightrag - INFO - Inserting 1 vectors to chunks
+2024-11-25 16:38:20,422 - lightrag - INFO - [Entity Extraction]...
+2024-11-25 16:39:48,522 - lightrag - WARNING - Didn't extract any relationships, maybe your LLM is not working
+2024-11-25 16:39:48,523 - lightrag - WARNING - No new entities and relationships found
+2024-11-25 16:39:48,529 - lightrag - INFO - Writing graph with 246 nodes, 29 edges
+2024-11-25 16:39:48,818 - lightrag - INFO - Local query uses 60 entites, 16 relations, 4 text units
+2024-11-25 16:39:48,960 - lightrag - INFO - Global query uses 45 entites, 29 relations, 4 text units
