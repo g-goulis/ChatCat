@@ -7,9 +7,9 @@
 <key id="d1" for="node" attr.name="description" attr.type="string"/>
 <key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
 <graph edgedefault="undirected"><node id="&quot;UNIVERSITY OF ARIZONA&quot;">
-  <data key="d0">"GEO"</data>
-  <data key="d1">"It's the location where these student advising and support activities take place."&lt;SEP&gt;"The University of Arizona is an institution that houses the Department of Systems and Industrial Engineering, which provides a learning and research environment for graduate students in various fields."&lt;SEP&gt;"The University of Arizona is an institution that offers doctoral programs and has guidelines for comprehensive exams and final dissertation defense."&lt;SEP&gt;"University of Arizona is an institution offering educational programs and research opportunities, including graduate studies."&lt;SEP&gt;"University of Arizona provides educational opportunities and resources including graduate degree programs in SFWE."</data>
-  <data key="d2">chunk-c4f2c3a9f8fb96415a9305c0988b869f&lt;SEP&gt;chunk-b5db40bdab3ffff08a38a9130bbd7a7a&lt;SEP&gt;chunk-2f30354a2204b27f0e6cf73d09f64ac2&lt;SEP&gt;chunk-6aa6dc7e14872dd363eb40f66c1f36bd&lt;SEP&gt;chunk-b47a9ea1936238576f7d467c9f74da49</data>
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A university located in Tucson, Arizona known for providing a wide range of academic programs and research opportunities."&lt;SEP&gt;"It's the location where these student advising and support activities take place."&lt;SEP&gt;"The University of Arizona is an institution that houses the Department of Systems and Industrial Engineering, which provides a learning and research environment for graduate students in various fields."&lt;SEP&gt;"The University of Arizona is an institution that offers doctoral programs and has guidelines for comprehensive exams and final dissertation defense."&lt;SEP&gt;"University of Arizona is an institution offering educational programs and research opportunities, including graduate studies."&lt;SEP&gt;"University of Arizona provides educational opportunities and resources including graduate degree programs in SFWE."&lt;SEP&gt;"The University of Arizona is a large institution offering financial aid to students, with various resources and policies related to financial assistance."&lt;SEP&gt;"The University of Arizona is an educational institution committed to fostering relationships with Native Nations and Indigenous communities."&lt;SEP&gt;"University of Arizona provides financial aid to students including scholarships, work-study programs, and federal loans. It also sets deadlines for the FAFSA form submission. Its administration building is located in Tucson, AZ."&lt;SEP&gt;"The University of Arizona provides educational resources and services including financial aid through its official website."&lt;SEP&gt;"The organization providing educational resources and services including financial aid through its official website."&lt;SEP&gt;"The University of Arizona is an educational institution offering various programs and services including financial aid."&lt;SEP&gt;"The University of Arizona is a top-ranking public institution with extensive research activities and a bold, forward-thinking approach to innovation."&lt;SEP&gt;"University of Arizona is a public research university located in Tucson, Arizona."&lt;SEP&gt;"The University of Arizona is a Carnegie-recognized R1 institution, synonymous with academic and research excellence. It is the state's land grant institution ranked among the nation's top 50 public universities and #16 for the employability of its graduates."&lt;SEP&gt;"The University of Arizona is a top-ranking public institution with extensive research activities and a bold, forward-thinking approach to innovation."&lt;SEP&gt;"University of Arizona is a public research university located in Tucson, Arizona."</data>
+  <data key="d2">chunk-32af3a4e2a68071e8e3270ddaf642387&lt;SEP&gt;chunk-b5db40bdab3ffff08a38a9130bbd7a7a&lt;SEP&gt;chunk-ba208d83022952222b8a55a6b47dfb86&lt;SEP&gt;chunk-e0ec6b85fa3b051a4f7d29f06a754acf&lt;SEP&gt;chunk-ae40287938a48935f815b19a62e9f3dc&lt;SEP&gt;chunk-b47a9ea1936238576f7d467c9f74da49&lt;SEP&gt;chunk-16c4cd71c98e6421b815177ec822f0c7&lt;SEP&gt;chunk-908b2e6d91017dffc026889bcb80314c&lt;SEP&gt;chunk-6a4147f806cbe98d8113ad840766e851&lt;SEP&gt;chunk-c4f2c3a9f8fb96415a9305c0988b869f&lt;SEP&gt;chunk-b539ba324503140aa0e1d0e766c20f88&lt;SEP&gt;chunk-1ef2e3603848d85c3732d2a18a4e09a7&lt;SEP&gt;chunk-6aa6dc7e14872dd363eb40f66c1f36bd&lt;SEP&gt;chunk-2f30354a2204b27f0e6cf73d09f64ac2</data>
 </node>
 <node id="&quot;RICARDO VALERDI&quot;">
   <data key="d0">"PERSON"</data>
@@ -197,8 +197,8 @@
   <data key="d0">"UNKNOWN"</data>
 </node>
 <node id="&quot;EVENT&quot;">
-  <data key="d2">chunk-3bd34990d947af56feec71f17db1d90a&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
-  <data key="d1">"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"The Doctoral Qualifying Examination assesses the necessary knowledge for software engineering research and must be taken by students before their third semester."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-3bd34990d947af56feec71f17db1d90a</data>
+  <data key="d1">"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"Description of the event, including its importance, impact, participants involved, and any related outcomes."&lt;SEP&gt;"The Doctoral Qualifying Examination assesses the necessary knowledge for software engineering research and must be taken by students before their third semester."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."&lt;SEP&gt;"This text does not mention any specific events."</data>
   <data key="d0">"EVENT"</data>
 </node>
 <node id="&quot;DOCTORAL COMPREHENSIVE EXAM&quot;">
@@ -258,18 +258,18 @@
 </node>
 <node id="&quot;ORGANIZATION&quot;">
   <data key="d0">"ORGANIZATION"</data>
-  <data key="d1">"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."</data>
-  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-9388219871d1ca103f61a8f2f5c1fef6&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+  <data key="d1">"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"Description of Organization Name. This organization operates in a specific industry or performs certain functions."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"This text does not provide information about any specific organizations."&lt;SEP&gt;"unnamed organization is unspecified in the text."&lt;SEP&gt;"This text does not provide information about any specific organizations."</data>
+  <data key="d2">chunk-9388219871d1ca103f61a8f2f5c1fef6&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61</data>
 </node>
 <node id="&quot;PERSON&quot;">
   <data key="d0">"PERSON"</data>
-  <data key="d1">"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."</data>
-  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+  <data key="d1">"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"Details about Person Name, including their role, contributions, and impact on the organization or society."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."&lt;SEP&gt;"This text does not provide details of any individuals."</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61</data>
 </node>
 <node id="&quot;GEO&quot;">
   <data key="d0">"GEO"</data>
-  <data key="d1">"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."</data>
-  <data key="d2">chunk-0f00a6489d26ab025a1ad44a3ff18c61&lt;SEP&gt;chunk-d8494efe615e54d6d488fc6092272fd9</data>
+  <data key="d1">"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"Information about the geographical location, such as city, country, significance in global context, etc."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."&lt;SEP&gt;"This text does not specify any geographical locations."</data>
+  <data key="d2">chunk-d8494efe615e54d6d488fc6092272fd9&lt;SEP&gt;chunk-0f00a6489d26ab025a1ad44a3ff18c61</data>
 </node>
 <node id="&quot;ADDITIONAL_ENTITY_1&quot;">
   <data key="d0">"ORGANIZATION"</data>
@@ -471,6 +471,771 @@
   <data key="d1">"The term 'Minor Requirements' is an event or action related to doctoral students following their public presentation."</data>
   <data key="d2">chunk-a6278274e599b66b1d95f2ad062d8998</data>
 </node>
+<node id="&quot;APPLY FOR AID&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"An event where prospective students can seek aid from the University of Arizona"&lt;SEP&gt;"The 'Apply for Aid' is a process that guides students through seeking financial assistance by providing access to different options available at the University of Arizona."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5&lt;SEP&gt;chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;TYPES OF AID&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Types of aid encompass various forms of financial support including scholarships, grants, loans and work study programs provided by the university."&lt;SEP&gt;"Various forms of financial assistance provided by the university, including scholarships, grants, work study and loans."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5&lt;SEP&gt;chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;COST&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The 'Cost' event involves the process of understanding expenses associated with attending University of Arizona which includes tuition, fees, living costs etc. This section guides students on how to manage these costs."&lt;SEP&gt;"The total expenses for attending the University of Arizona which can vary based on student residency, campus choice, housing selection, and enrollment status."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5&lt;SEP&gt;chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;FORMS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Financial aid forms are tools that applicants use to provide necessary information for determining eligibility and awarding financial assistance from the Office of Scholarships and Financial Aid."&lt;SEP&gt;"Procedures or documentation required from students when seeking financial aid from the university."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5&lt;SEP&gt;chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;FAFSA SIMPLIFICATION ACT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A legislative act that has led to updates on the University of Arizona's financial aid processes."</data>
+  <data key="d2">chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;FINANCIAL AID OFFER&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A package provided by the university detailing scholarships, grants and loans offered to students based on their needs."</data>
+  <data key="d2">chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;STUDENT AID INDEX (SAI)&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"An indicator used in determining financial aid eligibility; can be as low as zero or negative."</data>
+  <data key="d2">chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;COA (COST OF ATTENDANCE)&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The total estimated cost for attending the university, covering tuition, fees, and living expenses."</data>
+  <data key="d2">chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;FINANCIAL AID OFFER TIMELINE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A schedule outlining when students can expect to receive their financial aid offers based on their cohort and program."</data>
+  <data key="d2">chunk-6a4147f806cbe98d8113ad840766e851</data>
+</node>
+<node id="&quot;FEDERAL PELL GRANT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Federal Pell Grant is a financial aid program that provides assistance to undergraduate students who demonstrate financial need."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;ENROLLMENT INTENSITY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Enrollment Intensity refers to the level of enrollment in relation to full-time status, used for determining eligibility and award amount of the Federal Pell Grant."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;FULL-TIME ENROLLMENT&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Full-Time Enrollment is defined as 12 units or more per academic year, necessary to receive maximum financial aid awards."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;ARIZONA NATIVE SCHOLARS GRANT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Arizona Native Scholars Grant is a scholarship aimed at native students."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;ARIZONA PROMISE GRANT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Arizona Promise Grant is another form of financial assistance for undergraduate students."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;UNIVERSITY GRANT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The University Grant offers financial support to students attending the University of Arizona."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;ACHIEVEMENT AWARD&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Achievement Award signifies academic accomplishment and may offer additional funding opportunities."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;ARIZONA ASSURANCE GRANT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Arizona Assurance Grant is yet another aid provided by the university."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;FEDERAL SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANT (FSEOG)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This grant provides supplementary funds to students who show financial need."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;FEDERAL WORK-STUDY (FWS)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The FWS program allows students to work on campus and earn money towards their education."</data>
+  <data key="d2">chunk-6c16085b9d9a5d19d945c96df30353c9</data>
+</node>
+<node id="&quot;FEDERALLY RECOGNIZED TRIBES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"These are the organizations recognized by the federal government, emphasizing their importance in the context of diversity and inclusion."</data>
+  <data key="d2">chunk-16c4cd71c98e6421b815177ec822f0c7</data>
+</node>
+<node id="&quot;TUCSON&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Tucson is a geographical location where specific Native Nations live, highlighting its cultural significance."</data>
+  <data key="d2">chunk-16c4cd71c98e6421b815177ec822f0c7</data>
+</node>
+<node id="&quot;O'ODHAM&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"The O'odham are a Native American people who historically occupied the region encompassing southern Arizona, southwestern New Mexico, and northern Sonora and Baja California in northwestern Mexico.")&lt;|"entity"&lt;SEP&gt;"The O'odham are a Native American people who historically occupied the region encompassing southern Arizona, southwestern New Mexico, and northern Sonora and Baja California in northwestern Mexico.")&lt;|"entity"&lt;SEP&gt;"The O'odham refers to an indigenous group with a significant presence in Tucson, underscoring their local relevance."</data>
+  <data key="d2">chunk-16c4cd71c98e6421b815177ec822f0c7&lt;SEP&gt;chunk-80b51db3f488171359cb6a4aef8abfef</data>
+</node>
+<node id="&quot;YAQUI&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Yaqui is another indigenous organization that coexists in the same geographical area as the O'odham and Tucson, adding to the cultural diversity of the region."</data>
+  <data key="d2">chunk-16c4cd71c98e6421b815177ec822f0c7</data>
+</node>
+<node id="&quot;UNIVERSITY INFORMATION SECURITY AND PRIVACY&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This organization is part of The University of Arizona and focuses on information security and privacy, contributing to the institution's commitment towards technology protection."</data>
+  <data key="d2">chunk-16c4cd71c98e6421b815177ec822f0c7</data>
+</node>
+<node id="&quot;UACCESS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"UAccess is a system or platform offered by the University of Arizona for various purposes related to admissions, scholarships and financial aid."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;ADMISSIONS&quot;">
+  <data key="d0">"PROCESS"</data>
+  <data key="d1">"Admissions refers to processes and decisions made at the University of Arizona involving prospective students."&lt;SEP&gt;"Process for applying to undergraduate programs at the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454&lt;SEP&gt;chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;FACULTY &amp; STAFF&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Faculty &amp; Staff includes members working in educational and administrative roles within the University of Arizona."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;FEDERAL WORK STUDY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"Federal Work Study is a program that provides employment opportunities for undergraduate students with demonstrated financial need, allowing them to earn money to help pay education expenses."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;SCHOLARSHIPS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Scholarships are financial aid awards provided by the University of Arizona to assist students in covering educational costs."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;FINANCIAL AID&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Financial Aid encompasses various resources and support offered by the University of Arizona, including loans, grants, scholarships, and work-study programs for students facing financial challenges."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;OFFICE OF SCHOLARSHIPS AND FINANCIAL AID&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Office of Scholarships and Financial Aid at the University of Arizona offers comprehensive information about various financial aid programs, including scholarships, grants, loans and work-study opportunities."</data>
+  <data key="d2">chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;POLICIES&quot;">
+  <data key="d0">"REGULATION"</data>
+  <data key="d1">"Policies refer to rules and procedures established by the university which govern how financial aid is administered, including guidelines on appeals processes, student conduct affecting aid eligibility etc."&lt;SEP&gt;"Regulations governing academic procedures and student conduct at the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454&lt;SEP&gt;chunk-79bb781ad2ee73c9af69516ea86565d5</data>
+</node>
+<node id="&quot;THE ARIZONA BOARD OF REGENTS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The governing body that represents the interests of the state of Arizona in its relationship with the University of Arizona."</data>
+  <data key="d2">chunk-b539ba324503140aa0e1d0e766c20f88</data>
+</node>
+<node id="&quot;PRIVACY&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"A fundamental right that pertains to personal data protection and confidentiality."</data>
+  <data key="d2">chunk-b539ba324503140aa0e1d0e766c20f88</data>
+</node>
+<node id="&quot;THE FINANCIAL AID WEBSITE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The website provides information and services related to financial aid. It acts as a resource for students seeking financial assistance."</data>
+  <data key="d2">chunk-c1bfe18f055140229f8b64af51bd2abc</data>
+</node>
+<node id="&quot;PANTHEONSITE IO&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"This organization manages hosting services for websites like the financial aid website mentioned."</data>
+  <data key="d2">chunk-c1bfe18f055140229f8b64af51bd2abc</data>
+</node>
+<node id="&quot;MISSEDENTITY&quot;">
+  <data key="d0">"SPECIFICENTITYTYPE"</data>
+  <data key="d1">"Description"</data>
+  <data key="d2">chunk-ae40287938a48935f815b19a62e9f3dc</data>
+</node>
+<node id="&quot;THE UNIVERSITY OF ARIZONA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The University is a higher educational institution located in Tucson, known for its research activities and collaborations with Indigenous communities."</data>
+  <data key="d2">chunk-80b51db3f488171359cb6a4aef8abfef</data>
+</node>
+<node id="&quot;TOMAS DÍAZ DE LA RUBIA&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Tomas Díaz de la Rubia is an accomplished scientist and executive chosen to lead the University of Arizona's research enterprise."</data>
+  <data key="d2">chunk-1ef2e3603848d85c3732d2a18a4e09a7</data>
+</node>
+<node id="&quot;UANEWS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"UANews serves as a platform for disseminating news about researchers at The University of Arizona, showcasing their work and achievements in various fields."</data>
+  <data key="d2">chunk-1ef2e3603848d85c3732d2a18a4e09a7</data>
+</node>
+<node id="&quot;TECH PARKS ARIZONA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Tech Parks Arizona is a program that connects companies with the University of Arizona, aiming to facilitate innovation and economic growth."</data>
+  <data key="d2">chunk-1ef2e3603848d85c3732d2a18a4e09a7</data>
+</node>
+<node id="&quot;TECH LAUNCH ARIZONA&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"An initiative to commercialize university inventions, bringing research-based innovations to the market."&lt;SEP&gt;"Tech Launch Arizona focuses on creating impact from university innovations by supporting startups, securing investments, and assisting businesses seeking market entry through its accredited Soft Landing program."&lt;SEP&gt;"Tech Launch Arizona focuses on creating impact from university innovations by supporting startups, securing investments, and assisting businesses seeking market entry through its accredited Soft Landing program."</data>
+  <data key="d2">chunk-1ef2e3603848d85c3732d2a18a4e09a7&lt;SEP&gt;chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CENTER FOR INNOVATION&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Center for Innovation provides customized startup support, guiding entrepreneurs through a 28-point roadmap and attracting new investments to foster science and technology growth."</data>
+  <data key="d2">chunk-1ef2e3603848d85c3732d2a18a4e09a7</data>
+</node>
+<node id="&quot;CENTER.ARIZONA.EDU&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"center.arizona.edu is the online platform for information about various centers and institutes at The University of Arizona."</data>
+  <data key="d2">chunk-908b2e6d91017dffc026889bcb80314c</data>
+</node>
+<node id="&quot;DR. JANE SMITH&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"Dr. Jane Smith serves as the Dean of the College of Education at University of Arizona and is recognized for her expertise on educational technology."</data>
+  <data key="d2">chunk-908b2e6d91017dffc026889bcb80314c</data>
+</node>
+<node id="&quot;TUCSON, ARIZONA&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"Tucson is a city in southern Arizona where University of Arizona maintains its main campus."</data>
+  <data key="d2">chunk-908b2e6d91017dffc026889bcb80314c</data>
+</node>
+<node id="&quot;INAUGURATION CEREMONY&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"The annual Inauguration Ceremony at the University of Arizona celebrates new academic year with welcoming speeches and events for students and faculty."</data>
+  <data key="d2">chunk-908b2e6d91017dffc026889bcb80314c</data>
+</node>
+<node id="&quot;ONLINE EDUCATION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Online education refers to learning conducted through digital platforms, which is increasingly being adopted by University of Arizona to enhance accessibility and flexibility."</data>
+  <data key="d2">chunk-908b2e6d91017dffc026889bcb80314c</data>
+</node>
+<node id="&quot;OFFICE OF RESEARCH, INNOVATION AND IMPACT (RII)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The Office of Research, Innovation and Impact (RII) expands the capacity of U of A research and innovation enterprise with a focus on translating big ideas into important new knowledge. It uses the power of that knowledge to improve lives and communities in Arizona and across the globe."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CARNEGIE-RECOGNIZED R1&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Carnegie recognition for being an R1 institution means that University of Arizona is among the top research institutions in the nation with a high level of research activity."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;U.S. NEWS &amp; WORLD REPORT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"University of Arizona is ranked among the nation's top 50 public universities by U.S. News &amp; World Report, ranking #16 for the employability of its graduates."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;#1 IN ASTRONOMY AND ASTROPHYSICS&quot;">
+  <data key="d0">"RANK"</data>
+  <data key="d1">"The university is ranked #1 in astronomy and astrophysics among all institutions."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;#2 IN U.S. WATER RESOURCES&quot;">
+  <data key="d0">"RANK"</data>
+  <data key="d1">"Ranking of the university at #2 in U.S. water resources"</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;#5 IN NASA-FUNDED ACTIVITY&quot;">
+  <data key="d0">"RANK"</data>
+  <data key="d1">"The university holds a rank of #5 for NASA-funded activities."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;#6 IN THE PHYSICAL SCIENCES&quot;">
+  <data key="d0">"RANK"</data>
+  <data key="d1">"University of Arizona is ranked #6 among institutions with significant focus on physical sciences."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;ASSOCIATION OF AMERICAN UNIVERSITIES (AAU)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The university is a member of AAU, which consists of 71 leading U.S. public and private research universities recognized for advancing interdisciplinary scholarship and entrepreneurial partnerships."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CULTURAL DIVERSITY AND INCLUSION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Culturally diverse environment with an inclusive mindset promoting service in all operations."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;ENTREPRENEURIAL MINDSET&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The university culture supports innovation, problem-solving and entrepreneurship to drive research impact."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;RESEARCH ENTERPRISE EXPANSION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Expansion of the University's research capabilities focusing on translating ideas into knowledge that improves lives globally."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;DONORS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The university interacts with donors to support funding for research and innovation."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;RESEARCHERS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"University of Arizona is an R1 institution that provides unique opportunities for engagement with leading-edge faculty and world-class research experiences."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;RII COMMUNICATORS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"The University's Research, Innovation &amp; Impact office supports communication efforts among researchers, students, and the general public."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CORPORATIONS &amp; BUSINESSES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"U of A fosters collaborations with industry partners to create impactful research through partnerships and innovation."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;STUDENTS RESEARCHERS&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"University students have opportunities for engagement in research across academic fields, contributing to societal challenges."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;UNDERGRADUATE RESEARCH OPPORTUNITIES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Offering unique experiences for undergraduate students to engage in meaningful research and contribute to the community."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;OFFICE OF UNDERGRADUATE RESEARCH&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Supports undergraduate students' involvement in research through funding, guidance, and resources."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;APPLIED RESEARCH BUILDING (ARB)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"One of the university's facilities that supports applied research projects."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;ARIZONA VETERINARY DIAGNOSTIC LABORATORY&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"A facility for veterinary research and diagnostic services."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CENTERS &amp; INSTITUTES&quot;">
+  <data key="d0">"ORGANIZATIONAL STRUCTURE"</data>
+  <data key="d1">"Organizational structure representing collaborative research units."&lt;SEP&gt;"Research centers and institutes focused on various areas like astronomy, water resources, and NASA-funded activities."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454&lt;SEP&gt;chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CORE FACILITIES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Shared research equipment and facilities that support diverse scientific projects."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;GRAND CHALLENGES RESEARCH BUILDING (GCRB)&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"Facility for addressing complex societal issues through interdisciplinary research."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;MISSION INTEGRATION LAB&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"A facility or space dedicated to integrating various aspects of the university's mission, possibly including technology and innovation."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;MUSEUMS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"University-affiliated museums for educational purposes and hosting special exhibitions related to research."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;NATIVE PEOPLES TECHNICAL ASSISTANCE OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A support office focused on assisting Native American communities in technical aspects of various projects."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;RII BUSINESS CENTER&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"A business-oriented hub within the Research, Innovation &amp; Impact office to foster entrepreneurship and innovation."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;TELESCOPES, FACILITIES, AND MISSIONS&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The university is involved in various telescopic observations and space missions for astronomical research."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;CENTER FOR INNOVATION CORPORATE ENGAGEMENT SERVICES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Supports industry partnerships by facilitating connections between companies and the university's innovation ecosystem."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;FIND A RESEARCHER&quot;">
+  <data key="d0">"SERVICE"</data>
+  <data key="d1">"Facilitates connections between potential collaborators and researchers within the University of Arizona."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;NATIONAL SECURITY PROGRAM&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Contributes to national security through research and development in critical areas, often involving collaboration with government agencies."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;TECH PARKS&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"University-affiliated technology parks promoting innovation and entrepreneurship through shared spaces for researchers and businesses."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;ADDRESSING CLIMATE CHANGE&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Research initiatives focused on understanding and mitigating climate change impacts."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;FUTURE OF FOOD PRODUCTION&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Research efforts aimed at sustainable food production systems and addressing global food challenges."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;IN A DRYING CLIMATE&quot;">
+  <data key="d0">"CONTEXT"</data>
+  <data key="d1">"Focuses on the resilience of ecosystems, communities, and infrastructure in water-stressed regions."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;NATIVE AMERICAN ADVANCEMENT, INITIATIVES, AND RESEARCH&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Supports cultural preservation, economic development, and educational advancements among Native American populations."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;SOCIETAL IMPACT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"The potential effects of research activities on various aspects of society."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;TECHNOLOGY AND RESEARCH INITIATIVE FUND (TRIF)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"A fund supporting technology development, innovation, and commercialization efforts within the university."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;WOMEN OF IMPACT&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Recognition and promotion of influential women in STEM fields associated with the University of Arizona."</data>
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+</node>
+<node id="&quot;UNIVERSITY&quot;">
+  <data key="d2">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
+  <data key="d1">"University Board of Regents on behalf of The University of Arizona is responsible for information security and privacy policies."</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;CURRENT STUDENTS&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group includes students currently enrolled at the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FUTURE STUDENTS&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group comprises prospective students considering enrollment at the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FACULTY/STAFF&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group consists of teachers, professors, and administrative employees working in the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ALUMNI/DONORS&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group includes former students, graduates, and supporters who have donated to the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;K-12&quot;">
+  <data key="d0">"EDUCATION LEVEL"</data>
+  <data key="d1">"Education level covers primary and secondary schools."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ABOUT THE COLLEGE&quot;">
+  <data key="d0">"INFORMATION"</data>
+  <data key="d1">"Information about the college includes facts, leadership structure, departments, accreditation details, vision, mission, values, and virtual tours."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;LEADERSHIP&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"Role related to overseeing management within the college."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;DEPARTMENTS&quot;">
+  <data key="d0">"STRUCTURE"</data>
+  <data key="d1">"Structure comprising different academic units within the college."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ACCREDITATION&quot;">
+  <data key="d0">"STATUS"</data>
+  <data key="d1">"Status indicating recognition and quality of education programs provided by the college."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;VISION, MISSION AND VALUES&quot;">
+  <data key="d0">"PRINCIPLES"</data>
+  <data key="d1">"Principles outlining goals and guiding beliefs of the college."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;VIRTUAL TOUR&quot;">
+  <data key="d0">"ACTIVITY"</data>
+  <data key="d1">"Activity offering an online experience for exploring college facilities."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;UNDERGRAD PROGRAMS&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Category includes major studies, admissions process, scholarship opportunities, college life, design focus, and student resources."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;MAJORS&quot;">
+  <data key="d0">"SPECIFIC PROGRAM"</data>
+  <data key="d1">"Specific programs offering bachelor's degrees in various fields."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;SCHOLARSHIPS/FINANCIAL AID&quot;">
+  <data key="d0">"AID"</data>
+  <data key="d1">"Aid options provided by the university for financial support."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;COLLEGE LIFE&quot;">
+  <data key="d0">"ASPECT"</data>
+  <data key="d1">"Aspect of campus life including social, academic, and extracurricular activities."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;DESIGN FOCUS&quot;">
+  <data key="d0">"EMPHASIS"</data>
+  <data key="d1">"Emphasis on design-related studies within undergraduate programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;STUDENT RESOURCES&quot;">
+  <data key="d0">"SUPPORT"</data>
+  <data key="d1">"Supportive resources available for students, including academic guidance, career development, etc."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;PLAN A VISIT&quot;">
+  <data key="d0">"ACTION"</data>
+  <data key="d1">"Action encouraging prospective students to visit the campus."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;GRAD PROGRAMS&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Category comprising video overviews, degree options, online programs, graduate admissions, funding opportunities, student news, and policies."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;VIDEO OVERVIEW&quot;">
+  <data key="d0">"PRESENTATION"</data>
+  <data key="d1">"Presentation offering a visual introduction to graduate programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;DEGREES&quot;">
+  <data key="d0">"QUALIFICATIONS"</data>
+  <data key="d1">"Qualifications provided by the university in graduate studies."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ONLINE OPTIONS&quot;">
+  <data key="d0">"FORMAT"</data>
+  <data key="d1">"Format for delivering graduate education through online platforms."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;GRAD ADMISSIONS&quot;">
+  <data key="d0">"PROCESS"</data>
+  <data key="d1">"Process for applying to graduate programs at the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FUNDING&quot;">
+  <data key="d0">"AID"</data>
+  <data key="d1">"Aid options provided by the university for graduate students, including scholarships and assistantships."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;STUDENT NEWS&quot;">
+  <data key="d0">"PUBLICATION"</data>
+  <data key="d1">"Publication sharing updates relevant to current students."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;RESEARCH&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Category focusing on research areas, featured projects, centers and institutes, inventions, commercialization, and research administration."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FOCUS AREAS&quot;">
+  <data key="d0">"SPECIALIZATION"</data>
+  <data key="d1">"Specializations within research activities."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FEATURED PROJECTS&quot;">
+  <data key="d0">"HIGHLIGHT"</data>
+  <data key="d1">"Highlighting notable research projects conducted by the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;INVENTIONS &amp; COMMERCIALIZATION&quot;">
+  <data key="d0">"OUTCOME"</data>
+  <data key="d1">"Outcome of translating research into new products or services."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;RESEARCH ADMINISTRATION&quot;">
+  <data key="d0">"MANAGEMENT"</data>
+  <data key="d1">"Management overseeing academic research and project coordination."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;INDUSTRY PARTNERSHIPS&quot;">
+  <data key="d0">"COLLABORATION"</data>
+  <data key="d1">"Collaborations between the university and industry partners in education, job placement, and product development."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;NEW TALENT&quot;">
+  <data key="d0">"RECRUITMENT"</data>
+  <data key="d1">"Recruitment strategy attracting new talent through partnerships with industries."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;PARTNER PERSPECTIVES&quot;">
+  <data key="d0">"INSIGHT"</data>
+  <data key="d1">"Insights from industry leaders on educational programs offered by the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;PRODUCTS TO MARKET&quot;">
+  <data key="d0">"OUTPUT"</data>
+  <data key="d1">"Output resulting from research and development collaborations with industry partners."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ENGINEERING DESIGN PROGRAM&quot;">
+  <data key="d0">"PROGRAM"</data>
+  <data key="d1">"Program related to design-focused engineering education."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ADVISORY BOARDS&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group comprising external advisors providing guidance on academic programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;AFTER COLLEGE&quot;">
+  <data key="d0">"CONTINUATION"</data>
+  <data key="d1">"Continuation of services for alumni, including networking opportunities, job placement assistance, and resources."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ALUMNI SUCCESSES&quot;">
+  <data key="d0">"ACHIEVEMENT"</data>
+  <data key="d1">"Achievements highlighting success stories of graduates post-completion."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;EMPLOYER PERSPECTIVES&quot;">
+  <data key="d0">"FEEDBACK"</data>
+  <data key="d1">"Feedback from employers on the quality of education provided by the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FAST FACTS&quot;">
+  <data key="d0">"SUMMARY"</data>
+  <data key="d1">"Summary providing quick information about the college or its programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;RESOURCES&quot;">
+  <data key="d0">"SUPPORT"</data>
+  <data key="d1">"Supporting resources available for alumni, including job search assistance, networking opportunities, etc."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;EMPLOYMENT OPPORTUNITIES&quot;">
+  <data key="d0">"JOB OPENINGS"</data>
+  <data key="d1">"Job openings posted by the university or shared with alumni and students."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;NEWS &amp; EVENTS&quot;">
+  <data key="d0">"INFORMATION"</data>
+  <data key="d1">"Information covering current news, upcoming events, video content, publication downloads, and marketing communications team."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FEATURED NEWS&quot;">
+  <data key="d0">"HIGHLIGHT"</data>
+  <data key="d1">"Highlighting recent news items of interest."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;COMING EVENTS&quot;">
+  <data key="d0">"CALENDAR"</data>
+  <data key="d1">"Calendar featuring scheduled future events."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FEATURED VIDEOS&quot;">
+  <data key="d0">"MEDIA"</data>
+  <data key="d1">"Media content showcasing aspects of university life, achievements, or events."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;PUBLICATION DOWNLOADS&quot;">
+  <data key="d0">"MATERIAL"</data>
+  <data key="d1">"Materials such as research papers, reports, presentations that can be downloaded for reference."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;MARKETING &amp; COMMUNICATIONS TEAM&quot;">
+  <data key="d0">"DEPARTMENT"</data>
+  <data key="d1">"Department responsible for marketing strategies and communication within the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ADMISSIONS OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organization responsible for handling admissions processes and student enrollment."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ONLINE LEARNING CENTER&quot;">
+  <data key="d0">"STRUCTURE"</data>
+  <data key="d1">"Structure offering resources, support, and courses for online learners."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;FINANCIAL AID OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Office providing information on financial aid options and awarding scholarships."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;CAREER DEVELOPMENT SERVICES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organization providing guidance, resources, and opportunities to help students and graduates develop their careers."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;ALUMNI ASSOCIATION&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Group representing the interests of past graduates and fostering connections among alumni."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;DONOR RELATIONS DEPARTMENT&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Department managing relationships with donors for fundraising, donations, or scholarships."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;K-12 PARTNERSHIP OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Office coordinating partnerships between the university and K-12 educational institutions."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;MARKETING &amp; COMMUNICATIONS DEPARTMENT&quot;">
+  <data key="d0">"DEPARTMENT"</data>
+  <data key="d1">"Department handling marketing strategies, communication campaigns, and public relations for the university."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;COMMUNITY ENGAGEMENT PROGRAMS&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Category including initiatives that promote interaction between the university community and local communities or industries."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;UNIVERSITY LIBRARIES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organization providing resources, services, and spaces for research, learning, and collaboration among students, faculty, and staff."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;RESEARCH ADMINISTRATION OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Office overseeing academic research funding, policies, compliance, and management."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;INSTITUTIONAL RESEARCH &amp; PLANNING DEPARTMENT&quot;">
+  <data key="d0">"DEPARTMENT"</data>
+  <data key="d1">"Department conducting research on university operations, effectiveness, and planning for future strategies."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;INTERNATIONAL STUDENTS OFFICE&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organization providing support to international students in terms of immigration, cultural integration, academic guidance, and visa matters."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;OFFICE OF DIVERSITY &amp; INCLUSION&quot;">
+  <data key="d0">"DEPARTMENT"</data>
+  <data key="d1">"Department promoting diversity, inclusion, equity, and accessibility within the university community and educational programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;STUDENT HEALTH SERVICES&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"Organization offering medical care, health education, counseling services, and wellness resources to students."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;RECRUITMENT &amp; ADMISSIONS TEAM&quot;">
+  <data key="d0">"GROUP"</data>
+  <data key="d1">"Team responsible for outreach activities, events, and materials aimed at attracting potential new students, including future students."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
+<node id="&quot;SUPPORT SERVICES&quot;">
+  <data key="d0">"CATEGORY"</data>
+  <data key="d1">"Category encompassing various administrative services such as facilities management, IT support, academic advising, and student success programs."</data>
+  <data key="d2">chunk-2a55a9ce760d18b8830fa5b69dd1b454</data>
+</node>
 <edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;DISSERTATION COMMITTEE&quot;">
   <data key="d3">7.0</data>
   <data key="d4">"The University of Arizona provides faculty members who can serve as part of the dissertation committees."</data>
@@ -488,6 +1253,12 @@
   <data key="d4">"The University of Arizona offers SFWE as a field of study through their engineering program, providing educational resources and opportunities for students to pursue advanced degrees in this area."</data>
   <data key="d5">"field of study, educational offerings"</data>
   <data key="d6">chunk-b47a9ea1936238576f7d467c9f74da49</data>
+</edge>
+<edge source="&quot;UNIVERSITY OF ARIZONA&quot;" target="&quot;OFFICE OF RESEARCH, INNOVATION AND IMPACT (RII)&quot;">
+  <data key="d3">9.0</data>
+  <data key="d4">"The University of Arizona supports the Office of RII to expand its capacity in research and innovation enterprise."</data>
+  <data key="d5">"support, expansion"</data>
+  <data key="d6">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
 </edge>
 <edge source="&quot;SFWE PHD STUDENTS&quot;" target="&quot;MINOR ADVISOR&quot;">
   <data key="d3">9.0</data>
@@ -632,5 +1403,11 @@
   <data key="d4">"The College of Engineering's Graduate Studies department manages programs like SFEPHD."</data>
   <data key="d5">"department collaboration, academic administration"</data>
   <data key="d6">chunk-2dc050cb7a59b19fafa3278e81ac851c</data>
+</edge>
+<edge source="&quot;UNIVERSITY INFORMATION SECURITY AND PRIVACY&quot;" target="&quot;UNIVERSITY&quot;">
+  <data key="d3">10.0</data>
+  <data key="d4">"University Board of Regents on behalf of The University of Arizona is responsible for information security and privacy policies."</data>
+  <data key="d5">"responsible body, policy implementation"</data>
+  <data key="d6">chunk-e0ec6b85fa3b051a4f7d29f06a754acf</data>
 </edge>
 </graph></graphml>
